@@ -1,0 +1,63 @@
+<Settings>
+
+	<!--Game Client Version-->
+	<UpdateVersion>0.0.0.0</UpdateVersion>
+
+	<!--Preset Package Version-->
+	<PresetsVersion>0.0.0.0</PresetsVersion>
+
+	<!--Download the patch for outdated clients?-->
+	<EnforcePatch>false</EnforcePatch>
+
+	<!--Download the complete game media for outdated clients?-->
+	<EnforceGameMedia>true</EnforceGameMedia>
+
+	<!--MD5 Hashes-->
+	<GameMediaHash></GameMediaHash>
+	<PatchHash></PatchHash>
+	<x64COMHash></x64COMHash>
+	<x86COMHash></x86COMHash>
+
+	<!--Names of the files you want to delete on clients separated by semicolons. Do not include any paths here!-->
+	<ItemsToDelete></ItemsToDelete>
+
+	<!--URL for game media-->
+	<GameMediaURL>https://github.com/DarkHeta/TestingRepo/Felice_Cat_Dots.png</GameMediaURL>
+
+	<!--URL for the patch ZIP-->
+	<PatchURL>https://github.com/DarkHeta/TestingRepo/Felice_Cat_Dots.png</PatchURL>
+
+	<!--URL to x64 DLLs and game executable-->
+	<x64COMURL>https://github.com/DarkHeta/TestingRepo/Felice_Cat_Dots.png</x64COMURL>
+
+	<!--URL to x86 DLLs and game executable-->
+	<x86COMURL>https://github.com/DarkHeta/TestingRepo/Felice_Cat_Dots.png</x86COMURL>
+
+	<!--URL to the Presets Package-->
+	<PresetsURL>https://github.com/DarkHeta/TestingRepo/Felice_Cat_Dots.png</PresetsURL>
+
+	<!--Russian Changelog-->
+	<RUChangelogURL>https://github.com/DarkHeta/TestingRepo/ru_changelog.txt</RUChangelogURL>
+
+	<!--English Changelog-->
+	<ENChangelogURL>https://github.com/DarkHeta/TestingRepo/en_changelog.txt</ENChangelogURL>
+
+	<!--Set whether to read the DiashowConfig.xml to set custom URLs
+	Requires the launcher to download an additional file so only use if necessary -->
+	<ReadDiashowConfig>true</ReadDiashowConfig>
+	<DiashowConfigURL>https://github.com/DarkHeta/TestingRepo/DiashowConfig.xml</DiashowConfigURL>
+
+	<!--You do not need to change anything below this line-->
+	<!--Launcher Patcher Hash-->
+	<PatcherHash>a7a17b3fbfaa4797e321ff62ffd07eb5</PatcherHash>
+	<!--Launcher Version-->
+	<LauncherVersion>1.5.0.7</LauncherVersion>
+
+	<AMDFixURL>https://github.com/DarkHeta/TestingRepo/Felice_Cat_Dots.png</AMDFixURL>
+	<MinimalGraphicsURL>https://github.com/DarkHeta/TestingRepo/Felice_Cat_Dots.png</MinimalGraphicsURL>
+	<SetupURL>https://github.com/DarkHeta/TestingRepo/Felice_Cat_Dots.png</SetupURL>
+	<PatcherURL>https://github.com/DarkHeta/TestingRepo/Felice_Cat_Dots.png</PatcherURL>
+	<LauncherURL>https://github.com/DarkHeta/TestingRepo/Felice_Cat_Dots.png</LauncherURL>
+	<ConnectionBrokerURL>https://github.com/DarkHeta/TestingRepo/Felice_Cat_Dots.png</ConnectionBrokerURL>
+	<DotNetZipURL>https://github.com/DarkHeta/TestingRepo/Felice_Cat_Dots.png</DotNetZipURL>
+</Settings>
