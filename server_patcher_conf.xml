@@ -1,7 +1,7 @@
 <Settings>
 
 	<!--Game Client Version-->
-	<UpdateVersion>0.0.0.1</UpdateVersion>
+	<UpdateVersion>0.0.0.2</UpdateVersion>
 
 	<!--Preset Package Version-->
 	<PresetsVersion>0.0.0.0</PresetsVersion>
@@ -22,7 +22,7 @@
 	<ItemsToDelete></ItemsToDelete>
 
 	<!--URL for game media-->
-	<GameMediaURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</GameMediaURL>
+	<GameMediaURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Game.exe</GameMediaURL>
 
 	<!--URL for the patch ZIP-->
 	<PatchURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</PatchURL>
