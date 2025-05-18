@@ -22,10 +22,10 @@
 	<ItemsToDelete></ItemsToDelete>
 
 	<!--URL for game media-->
-	<GameMediaURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Game.exe</GameMediaURL>
+	<GameMediaURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Game.zip</GameMediaURL>
 
 	<!--URL for the patch ZIP-->
-	<PatchURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</PatchURL>
+	<PatchURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Game.zip</PatchURL>
 
 	<!--URL to x64 DLLs and game executable-->
 	<x64COMURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</x64COMURL>
