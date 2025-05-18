@@ -1,7 +1,7 @@
 <Settings>
 
 	<!--Game Client Version-->
-	<UpdateVersion>0.0.0.2</UpdateVersion>
+	<UpdateVersion>0.0.0.3</UpdateVersion>
 
 	<!--Preset Package Version-->
 	<PresetsVersion>0.0.0.0</PresetsVersion>
@@ -25,7 +25,7 @@
 	<GameMediaURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Game.exe</GameMediaURL>
 
 	<!--URL for the patch ZIP-->
-	<PatchURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</PatchURL>
+	<PatchURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Game.exe</PatchURL>
 
 	<!--URL to x64 DLLs and game executable-->
 	<x64COMURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</x64COMURL>
