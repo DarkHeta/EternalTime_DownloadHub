@@ -1,7 +1,7 @@
 <Settings>
 
 	<!--Game Client Version-->
-	<UpdateVersion>0.0.0.0</UpdateVersion>
+	<UpdateVersion>0.0.0.1</UpdateVersion>
 
 	<!--Preset Package Version-->
 	<PresetsVersion>0.0.0.0</PresetsVersion>
