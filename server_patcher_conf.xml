@@ -58,6 +58,6 @@
 	<SetupURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</SetupURL>
 	<PatcherURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</PatcherURL>
 	<LauncherURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</LauncherURL>
-	<ConnectionBrokerURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</ConnectionBrokerURL>
-	<DotNetZipURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</DotNetZipURL>
+	<ConnectionBrokerURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Launcher/ConnectionBroker.dll</ConnectionBrokerURL>
+	<DotNetZipURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Launcher/DotNetZip.dll</DotNetZipURL>
 </Settings>
