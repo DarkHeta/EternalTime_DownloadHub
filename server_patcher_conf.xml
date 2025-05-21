@@ -22,30 +22,30 @@
 	<ItemsToDelete></ItemsToDelete>
 
 	<!--URL for game media-->
-	<GameMediaURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Game.zip</GameMediaURL>
+	<GameMediaURL>https://github.com/DarkHeta/EternalTime_DownloadHub/raw/refs/heads/main/Game.zip</GameMediaURL>
 
 	<!--URL for the patch ZIP-->
-	<PatchURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Game.zip</PatchURL>
+	<PatchURL>https://github.com/DarkHeta/EternalTime_DownloadHub/raw/refs/heads/main/Game.zip</PatchURL>
 
 	<!--URL to x64 DLLs and game executable-->
-	<x64COMURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</x64COMURL>
+	<x64COMURL>https://github.com/DarkHeta/EternalTime_DownloadHub/raw/refs/heads/main/Felice_Cat_Dots.zip</x64COMURL>
 
 	<!--URL to x86 DLLs and game executable-->
-	<x86COMURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</x86COMURL>
+	<x86COMURL>https://github.com/DarkHeta/EternalTime_DownloadHub/raw/refs/heads/main/Felice_Cat_Dots.zip</x86COMURL>
 
 	<!--URL to the Presets Package-->
-	<PresetsURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</PresetsURL>
+	<PresetsURL>https://github.com/DarkHeta/EternalTime_DownloadHub/raw/refs/heads/main/Felice_Cat_Dots.zip</PresetsURL>
 
 	<!--Russian Changelog-->
-	<RUChangelogURL>https://raw.githubusercontent.com/DarkHeta/TestingRepo/refs/heads/main/ru_changelog.txt</RUChangelogURL>
+	<RUChangelogURL>https://raw.githubusercontent.com/DarkHeta/EternalTime_DownloadHub/refs/heads/main/ru_changelog.txt</RUChangelogURL>
 
 	<!--English Changelog-->
-	<ENChangelogURL>https://raw.githubusercontent.com/DarkHeta/TestingRepo/refs/heads/main/en_changelog.txt</ENChangelogURL>
+	<ENChangelogURL>https://raw.githubusercontent.com/DarkHeta/EternalTime_DownloadHub/refs/heads/main/en_changelog.txt</ENChangelogURL>
 
 	<!--Set whether to read the DiashowConfig.xml to set custom URLs
 	Requires the launcher to download an additional file so only use if necessary -->
 	<ReadDiashowConfig>true</ReadDiashowConfig>
-	<DiashowConfigURL>https://raw.githubusercontent.com/DarkHeta/TestingRepo/refs/heads/main/DiashowConf.xml</DiashowConfigURL>
+	<DiashowConfigURL>https://raw.githubusercontent.com/DarkHeta/EternalTime_DownloadHub/refs/heads/main/DiashowConf.xml</DiashowConfigURL>
 
 	<!--You do not need to change anything below this line-->
 	<!--Launcher Patcher Hash-->
@@ -53,11 +53,11 @@
 	<!--Launcher Version-->
 	<LauncherVersion>1.5.0.7</LauncherVersion>
 
-	<AMDFixURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</AMDFixURL>
-	<MinimalGraphicsURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</MinimalGraphicsURL>
-	<SetupURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</SetupURL>
-	<PatcherURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</PatcherURL>
-	<LauncherURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Felice_Cat_Dots.zip</LauncherURL>
-	<ConnectionBrokerURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Launcher/ConnectionBroker.dll</ConnectionBrokerURL>
-	<DotNetZipURL>https://github.com/DarkHeta/TestingRepo/raw/refs/heads/main/Launcher/DotNetZip.dll</DotNetZipURL>
+	<AMDFixURL>https://github.com/DarkHeta/EternalTime_DownloadHub/raw/refs/heads/main/Felice_Cat_Dots.zip</AMDFixURL>
+	<MinimalGraphicsURL>https://github.com/DarkHeta/EternalTime_DownloadHub/raw/refs/heads/main/Felice_Cat_Dots.zip</MinimalGraphicsURL>
+	<SetupURL>https://github.com/DarkHeta/EternalTime_DownloadHub/raw/refs/heads/main/Felice_Cat_Dots.zip</SetupURL>
+	<PatcherURL>https://github.com/DarkHeta/EternalTime_DownloadHub/raw/refs/heads/main/Felice_Cat_Dots.zip</PatcherURL>
+	<LauncherURL>https://github.com/DarkHeta/EternalTime_DownloadHub/raw/refs/heads/main/Felice_Cat_Dots.zip</LauncherURL>
+	<ConnectionBrokerURL>https://github.com/DarkHeta/EternalTime_DownloadHub/raw/refs/heads/main/Launcher/ConnectionBroker.dll</ConnectionBrokerURL>
+	<DotNetZipURL>https://github.com/DarkHeta/EternalTime_DownloadHub/raw/refs/heads/main/Launcher/DotNetZip.dll</DotNetZipURL>
 </Settings>
