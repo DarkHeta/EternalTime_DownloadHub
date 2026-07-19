@@ -1,0 +1,46 @@
+PRIVACY POLICY
+Last updated: June 29, 2026
+
+This Privacy Policy describes how we, a team of independent developers, collect, use, and protect information when you use our Game. By using the Game, you agree to the terms of data processing described in this document.
+
+1. DATA COLLECTION AND USE
+We strive to minimize the collection of personal information. We only collect data necessary for the functionality of the game process:
+
+Identification Data: Your Discord ID, email address (for verification), and nickname.
+
+Technical Data: IP address (for security and abuse prevention), device data, and game activity logs.
+
+User-Generated Content (UGC): Character biographies, clan icons, and other images you upload to the Game.
+
+2. USE OF THIRD-PARTY SERVICES
+We rely on third-party infrastructure to operate the Game. Please note that by using the Game, you are also interacting with these services directly:
+
+Google: For sending system emails and registration verification.
+
+Discord: For authorization and operation of the reporting system.
+
+imgBB: For hosting and displaying images uploaded by users.
+
+GitHub: For storing source code, game updates, and syncing security lists.
+
+Boosty: For processing voluntary donations. We do not store your payment information (card numbers, etc.); all transaction processing takes place on Boosty's end.
+
+We are not responsible for the privacy policies of these companies. We recommend that you review their terms on their respective websites.
+
+3. DATA STORAGE AND SECURITY
+We take reasonable technical measures to protect your information. However, no method of data transmission over the internet is 100% secure. We cannot guarantee absolute protection against hacking or third-party system failures.
+
+4. USER RIGHTS
+You have the right to:
+
+Request information about the data we store about you.
+
+Delete your account and associated data from our database (except where such deletion would interfere with system functionality or project security).
+
+Submit a complaint via the in-game system if you believe your data is being misused.
+
+5. CHILDREN
+The Game is intended for individuals aged 13 and older (recommended age is 16+). We do not knowingly collect personal information from children under 13. If we become aware that we have collected such data, we will delete it immediately.
+
+6. CHANGES TO THE POLICY
+We reserve the right to modify this Policy at any time. Continued use of the Game after the publication of updates signifies your acceptance of the new version of the Policy.
