@@ -1,0 +1,114 @@
+TERMS OF SERVICE
+Last updated: October 7, 2026
+
+Before starting the game, please carefully read this Terms of Service agreement (hereinafter referred to as the "Agreement"). By clicking "Accept," registering, or otherwise using the Game, you confirm that you have read, understood, and unconditionally agree to all the terms of this Agreement.
+
+If you do not agree to these terms, you have no right to use the Game and must immediately close and delete it.
+
+1. GENERAL PROVISIONS AND DEVELOPER STATUS
+1.1. This Game (hereinafter the "Game") is a project created and maintained by a small team of independent developers (hereinafter the "Licensor" or "Developer").
+1.2. The Game is provided to the User "AS IS" and "AS AVAILABLE." The Developer makes every effort to ensure the stability of the Game but does not guarantee uninterrupted operation, the absence of errors, or complete security.
+
+2. AGE RESTRICTIONS
+2.1. The recommended age rating for the Game is 16+.
+2.2. Use of the Game by individuals aged 13 to 15 inclusive is permitted solely with the consent of parents or legal guardians. By registering, a User aged 13 to 15 confirms that they have obtained such consent.
+2.3. Use of the Game by individuals under 13 is strictly prohibited due to privacy and security requirements.
+2.4. The Developer is not responsible for the provision of false age information by Users.
+
+3. INTEGRATION WITH THIRD-PARTY SERVICES
+Third-party services are used for the operation of the Game. By using the Game, you also agree to the rules and privacy policies of the following platforms:
+
+Google — for sending system emails and verification during registration.
+
+Discord — for account linking, authorization, and the operation of the in-game reporting system.
+
+imgBB — for hosting images uploaded by Users.
+
+GitHub — for storing source code, distributing versions of the Game via the launcher, and syncing lists of prohibited email domains and malicious sites.
+
+Boosty — as a third-party platform for voluntary financial support (donations) and subscription confirmation.
+
+The Developer is not responsible for failures, data leaks, or policy changes on the part of the aforementioned third-party services.
+
+4. USER-GENERATED CONTENT (UGC) AND MODERATION
+4.1. The Game allows Users to upload and create their own content (hereinafter "UGC"), including but not limited to: images in character biographies, clan icons, and text descriptions of clans and characters.
+4.2. It is strictly forbidden to upload content containing:
+
+Pornographic materials (NSFW), violence, cruelty, or incitement thereof.
+
+Expressions of hatred, discrimination, racism, homophobia, insults, and harassment (bullying).
+
+Political slogans, propaganda of illegal substances, or other illegal information.
+4.3. Automatic Pre-moderation: For community protection, the NSFW JS neural network is used on the server side to recognize inappropriate images. The User agrees that their images undergo automatic verification.
+4.4. The Developer is not responsible for instances where the automatic system or manual moderation fails to catch inappropriate content. All liability for the content of UGC lies solely with the User who uploaded it.
+4.5. UGC License: By uploading UGC to the Game, the User grants the Developer a non-exclusive, royalty-free, worldwide license to store, reproduce, display, adapt (to the extent necessary for the technical operation of the Game), and moderate such content within the Game and its related services. This license is effective from the moment the content is uploaded until it is deleted by the User or the Developer. The User confirms that they hold all necessary rights to the uploaded content and that such content does not infringe the rights of third parties.
+
+5. CONDUCT RULES AND REPORTING SYSTEM
+5.1. The use of any third-party software that provides an advantage (cheats, hacks, macros, scripts, modifications not approved by the Developer), as well as the exploitation of bugs, is prohibited in the Game.
+5.2. Community Self-regulation System: The Game features an automatic content or player blocking system based on mass reports.
+
+A single User may submit only one report against another User and one report against content (Biography) per 3-day cycle (before the report system resets for that player).
+
+Upon reaching a limit of 5 complaints from different players, the system automatically hides the text (biography) or temporarily blocks the account pending review.
+
+An automatic block is a temporary interim measure and does not constitute a final determination of the User's guilt. The final decision is made based on the results of a manual review.
+5.3. Abuse of the reporting system (intentional mass collusion, unfounded complaints against innocent players to harm them) is equated to destructive behavior and is punishable by a permanent ban for all participants of the collusion.
+5.4. The Player has the right to appeal any type of sanction applied to them. The Administration reserves the right to take or not take action.
+
+6. SANCTIONS AND ACCESS LIMITATION
+6.1. The Developer reserves the right, at any time and at their discretion, to apply the following measures to the User: issuing a warning, kick (forced exit from the game), temporary ban, indefinite (permanent) account ban, or IP/hardware ban. In cases where this is technically feasible and does not conflict with the security interests of the Game and its community, the Developer may notify the User of the reason for the sanction; however, the Developer is not obliged to provide such notification or explanation of reasons.
+6.2. In the event of an account ban for violating this Agreement, no game progress, valuables, or compensation shall be returned to the User.
+6.3. The application of sanctions does not deprive the User of the right to appeal in accordance with Section 5.4.
+
+7. VOLUNTARY DONATIONS
+7.1. Financial support for the Game is carried out through the Boosty service on a strictly voluntary basis.
+7.2. All payments made are voluntary gratuitous contributions (gifts) for the development of the project and do not constitute payment for goods, works, or services. They are non-refundable under any circumstances, including, but not limited to: technical failures, project closure, balance changes, or the User's account being banned for violating the rules, to the maximum extent permitted by applicable law.
+7.3. Receiving any in-game bonuses for a donation is a gesture of gratitude from the Developer, has no monetary value, and does not impose any legal obligations on the Developer to provide "paid services," guarantees, or compensation.
+
+8. INTELLECTUAL PROPERTY AND AI
+8.1. All visual and text content of the Game (3D models, textures, interface (UI), texts, lore) is created manually by the project authors and is protected by copyright.
+8.2. Artificial intelligence (AI) tools were used by the Developer solely as an auxiliary aid for optimizing and writing program code (routine tasks) and did not involve the generation of art content.
+8.3. The User is prohibited from copying, decompiling, reverse-engineering, distributing, or using the Game's assets outside the gameplay without written consent from the Developer.
+
+9. PRIVACY AND DATA PROCESSING
+9.1. To operate the Game, the Developer processes the following categories of User data:
+
+email address — for registration, account confirmation, sending confirmation codes and system emails, and for confirming a Boosty subscription;
+
+password — in hashed form, for account authorization;
+
+Discord authorization data — for account linking and signing in via Discord;
+
+game data — created characters, biographies, clans, icons and other UGC, as well as in-game progress.
+9.2. Data is stored for the lifetime of the User's account and is deleted upon the User's request or upon account deletion, except where storage is required by applicable law.
+9.3. Data is transferred to third parties only to the extent necessary for the operation of the relevant services (Google, Discord, imgBB, GitHub, Boosty) and is governed by their own privacy policies.
+9.4. The User has the right to request access to, correction of, or deletion of their data by contacting the Developer using the details in Section 13.
+9.5. The Developer takes reasonable technical and organizational measures to protect User data; however, the Developer does not guarantee absolute protection against unauthorized access, loss, or leakage of data.
+
+10. DISCLAIMER OF LIABILITY
+10.1. The Developer is not responsible for:
+
+Behavior of Users in text or voice chats, as well as the content of their biographies and clan content.
+
+Any direct or indirect losses, data loss, moral damage, or damage to business reputation resulting from the use or inability to use the Game.
+
+The player's psychological comfort. If the behavior/content of other players offends or upsets you, use the built-in block system (blacklist) and report system.
+10.2. To the maximum extent permitted by applicable law, the Developer's aggregate liability for any claims or demands related to the Game or this Agreement is limited to 0 (zero) rubles.
+10.3. Notwithstanding Sections 10.1 and 10.2 of this Agreement, the Developer makes reasonable efforts to assist Users who find themselves in a difficult situation within the Game, including, but not limited to: an erroneous account ban, being ejected beyond the map boundaries, and any other emergency situation in which the Developer is objectively able to provide such assistance. Such assistance does not create guarantees, does not override the limitations of liability under Section 10.2, and does not entail the payment of any compensation.
+
+11. CHANGES TO THE AGREEMENT
+11.1. The Developer has the right to unilaterally change the text of this Agreement without prior notice to Users.
+11.2. The current version of the Agreement is published in the Game and/or on the project's official resources, with the date of the last update indicated.
+11.3. Continued use of the Game after changes are made signifies your automatic consent to the new version of the Agreement. If you do not agree with the changes, you must stop using the Game.
+
+12. APPLICABLE LAW AND DISPUTE RESOLUTION
+12.1. This Agreement and the relations between the User and the Developer are governed by the law of the Russian Federation.
+12.2. All disputes arising in connection with this Agreement shall be resolved through negotiations. If a dispute cannot be resolved through negotiations, it shall be submitted to the competent court at the Developer's location in accordance with the legislation of the Russian Federation.
+
+13. CONTACTS
+For all matters related to this Agreement, the operation of the Game, data processing, appeals, and data deletion requests, the User may contact the Developer:
+
+Email: eternaltimethegame@gmail.com
+VKontakte group messages: https://vk.ru/eternaltime_alumiss
+Telegram: @HETO4KA
+Discord: darkheta
