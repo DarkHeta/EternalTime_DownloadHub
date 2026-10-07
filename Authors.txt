@@ -1,16 +1,16 @@
 [font_size=22]Project creator:[/font_size]
 DarkHeta
 
-font_size=22]Current developers:[/font_size]
+[font_size=22]Current developers:[/font_size]
 DarkHeta
 Lamina
 Rafiq
 
-font_size=22]Programmers:[/font_size]
+[font_size=22]Programmers:[/font_size]
 DarkHeta
 Lamina
 
-font_size=22]2D Desighers:[/font_size]
+[font_size=22]2D Desighers:[/font_size]
 DarkHeta
 BlueeyesDestroy
 Olenesta
@@ -18,7 +18,7 @@ Heex
 BlackDoggo
 CAPRICIOUS
 
-font_size=22]3D designers:[/font_size]
+[font_size=22]3D designers:[/font_size]
 DarkHeta
 DexterMorgan
 Kirill Loschilov
@@ -30,37 +30,37 @@ iramorktum
 Alicor
 VangersBibos
 
-font_size=22]Particle designers:[/font_size]
+[font_size=22]Particle designers:[/font_size]
 DarkHeta
 
-font_size=22]Level designers:[/font_size]
+[font_size=22]Level designers:[/font_size]
 Rafiq
 DarkHeta
 Lamina
 
-font_size=22]Music composer:[/font_size]
+[font_size=22]Music composer:[/font_size]
 Olle Bjork
 
-font_size=22]Singer:[/font_size]
+[font_size=22]Singer:[/font_size]
 Irina Rakhmanova
 
-font_size=22]Sound designers:[/font_size]
+[font_size=22]Sound designers:[/font_size]
 DarkHeta
 ArtElll
 
-font_size=22]Writers:[/font_size]
+[font_size=22]Writers:[/font_size]
 DarkHeta
 Rafiq
 BlueeyesDestroy
 Eugene West
 
-font_size=22]OGRE3d volunteers:[/font_size]
+[font_size=22]OGRE3d volunteers:[/font_size]
 Whestersen
 S1lence
 Lkjhgf_sad 
 Whestersen
 
-font_size=22]Special thanks:[/font_size]
+[font_size=22]Special thanks:[/font_size]
 Rafiq
 BlueeyesDestroy
 Lamina
