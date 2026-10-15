@@ -1,8 +1,33 @@
+=================== 0.1.1.0 ===================
+- Transitioned to the Godot Engine
+- Complete rework of the network architecture
+- Reworked account system
+- Added password reset via secret question
+- Added genetics: genes, hidden alleles, clusters, inbreeding
+- Added marking layer system (up to 6 layers, masks, inversion, drag-n-drop)
+- Reworked editor: tabs, sizers, palettes, randomizer, undo/redo
+- Added element and synergy system
+- Added racial abilities
+- Added pack system: friends, invitations, synchronization
+- Added scent system and radial menu
+- Added report system (players, bios, appeals)
+- Added gacha: 5 rarities, pity system, shop
+- Added mini-games
+- Added chests with an element and synergies
+- Added ambience and 3D sound system
+- Reworked camera: main, free, cinematic
+- Added portrait system
+- Added friends and online notifications system
+- Added state buffer and position interpolation system
+- Reworked forest streaming
+- Added character LOD system
+- Added procedural movement animation
+- Added skeletal animation system with blending
+- Added voice customization system
+- Added hairstyle and crest variation system
+- Reworked icons and UI
+- Added key rebinding system with conflict resolution
 =================== 0.0.1.4 ===================
-Warning! The game is in a test state. Some functionality is unavailable or unfinished. There is a high probability of finding bugs. Please report bugs in Discord server.
-
-Attention! Due to file cleaning, some markings on the tail and mane may have disappeared. We will address this in upcoming updates.
-
 - Fixed music crashes
 - Fixed account login (all previously created accounts have been deleted)
 - Fixed search system
