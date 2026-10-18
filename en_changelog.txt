@@ -1,85 +1,103 @@
+=================== 0.1.1.1 ===================
+✦ Fixed server connection and synchronization
+✦ Fixed critical chat error
+✦ Fixed location baking
+✦ Fixed the white card from Tears of Time
+✦ Removed duplicate characters from the game database
+✦ Fixed the initial screen
+✦ Fixed settings saving
+✦ Fixed the situational palette
+  - Automatic color switching when changing layer
+  - Smooth color change
+  - Specification of the layer being changed
+  - Added HEX panel
+✦ Fixed character saving
+✦ Fixed synchronization of main body parts (ears, tails) and race
+✦ Fixed some sounds in the game
+✦ Added render settings to the launcher
+✦ Added a download mirror for the game in the launcher
 =================== 0.1.1.0 ===================
-- Transitioned to the Godot Engine
-- Complete rework of the network architecture
-- Reworked account system
-- Added password reset via secret question
-- Added genetics: genes, hidden alleles, clusters, inbreeding
-- Added marking layer system (up to 6 layers, masks, inversion, drag-n-drop)
-- Reworked editor: tabs, sizers, palettes, randomizer, undo/redo
-- Added element and synergy system
-- Added racial abilities
-- Added pack system: friends, invitations, synchronization
-- Added scent system and radial menu
-- Added report system (players, bios, appeals)
-- Added gacha: 5 rarities, pity system, shop
-- Added mini-games
-- Added chests with an element and synergies
-- Added ambience and 3D sound system
-- Reworked camera: main, free, cinematic
-- Added portrait system
-- Added friends and online notifications system
-- Added state buffer and position interpolation system
-- Reworked forest streaming
-- Added character LOD system
-- Added procedural movement animation
-- Added skeletal animation system with blending
-- Added voice customization system
-- Added hairstyle and crest variation system
-- Reworked icons and UI
-- Added key rebinding system with conflict resolution
+✦ Transitioned to the Godot Engine
+✦ Complete rework of the network architecture
+✦ Reworked account system
+✦ Added password reset via secret question
+✦ Added genetics: genes, hidden alleles, clusters, inbreeding
+✦ Added marking layer system (up to 6 layers, masks, inversion, drag-n-drop)
+✦ Reworked editor: tabs, sizers, palettes, randomizer, undo/redo
+✦ Added element and synergy system
+✦ Added racial abilities
+✦ Added pack system: friends, invitations, synchronization
+✦ Added scent system and radial menu
+✦ Added report system (players, bios, appeals)
+✦ Added gacha: 5 rarities, pity system, shop
+✦ Added mini-games
+✦ Added chests with an element and synergies
+✦ Added ambience and 3D sound system
+✦ Reworked camera: main, free, cinematic
+✦ Added portrait system
+✦ Added friends and online notifications system
+✦ Added state buffer and position interpolation system
+✦ Reworked forest streaming
+✦ Added character LOD system
+✦ Added procedural movement animation
+✦ Added skeletal animation system with blending
+✦ Added voice customization system
+✦ Added hairstyle and crest variation system
+✦ Reworked icons and UI
+✦ Added key rebinding system with conflict resolution
 =================== 0.0.1.4 ===================
-- Fixed music crashes
-- Fixed account login (all previously created accounts have been deleted)
-- Fixed search system
-- Removed all old markings on the head
-- Added the option to choose pupils
-- Added 15 pupil options
-- Added the option to choose markings on the ears
-- Added 6 ear markings
-- Added 43 body markings
-- Added 124 head markings
-- Added the ability to remove markings from the character
-- Added the ability to lock markings
+✦ Fixed music crashes
+✦ Fixed account login (all previously created accounts have been deleted)
+✦ Fixed search system
+✦ Removed all old markings on the head
+✦ Added the option to choose pupils
+✦ Added 15 pupil options
+✦ Added the option to choose markings on the ears
+✦ Added 6 ear markings
+✦ Added 43 body markings
+✦ Added 124 head markings
+✦ Added the ability to remove markings from the character
+✦ Added the ability to lock markings
 =================== 0.0.1.3 ===================
-- Fixed bug with sound
-- Fixed color lag
-- Added separate underfur coloring
-- Added ability to change underfur layer
-- Added second layer of eyelash coloring
-- Removed "Under eyes" coloring
-- Removed all old eye markings
-- Removed all old body markings
-- Added 12 new eye markings
-- Added 113 new body markings
+✦ Fixed bug with sound
+✦ Fixed color lag
+✦ Added separate underfur coloring
+✦ Added ability to change underfur layer
+✦ Added second layer of eyelash coloring
+✦ Removed "Under eyes" coloring
+✦ Removed all old eye markings
+✦ Removed all old body markings
+✦ Added 12 new eye markings
+✦ Added 113 new body markings
 =================== 0.0.1.2 ===================
-- Fixed visual errors in the editor
-- Fixed problems with registration
+✦ Fixed visual errors in the editor
+✦ Fixed problems with registration
 =================== 0.0.1.1 ===================
-- Fixed critical bugs in the editor
-- Added body part sets
+✦ Fixed critical bugs in the editor
+✦ Added body part sets
 =================== 0.0.1.0 ===================
-- Complete rework of the game character model
-- Complete rework of the game character editor:
-  - Completely redesigned UI
-  - Completely redesigned editing systems
-  - Added icons for body parts and markings
-  - Made advanced color choose
-  - Added possibility to save "templates"
-  - Added possibility to randomize the character
-  - Added visual effects to the editor environment
-- Complete redesign of the title UI
-- Changes in the network part of the game
+✦ Complete rework of the game character model
+✦ Complete rework of the game character editor:
+  ✦ Completely redesigned UI
+  ✦ Completely redesigned editing systems
+  ✦ Added icons for body parts and markings
+  ✦ Made advanced color choose
+  ✦ Added possibility to save "templates"
+  ✦ Added possibility to randomize the character
+  ✦ Added visual effects to the editor environment
+✦ Complete redesign of the title UI
+✦ Changes in the network part of the game
 
 =================== 0.0.0.3 ===================
-- Animal behaviour modification work completed
-- Added "smooth" camera
-- Changed player jump size
-- Changed nickname colour for developers
+✦ Animal behaviour modification work completed
+✦ Added "smooth" camera
+✦ Changed player jump size
+✦ Changed nickname colour for developers
 
 =================== 0.0.0.2 ===================
-- Changed music in main menu and editor
-- Changed click sound
-- Added experimental footprints feature (WiP)
-- Work has begun on changing animal behaviour (WiP)
-- Added dynamic change of step sounds (WiP)
-- Reduced Walk speed
+✦ Changed music in main menu and editor
+✦ Changed click sound
+✦ Added experimental footprints feature (WiP)
+✦ Work has begun on changing animal behaviour (WiP)
+✦ Added dynamic change of step sounds (WiP)
+✦ Reduced Walk speed
