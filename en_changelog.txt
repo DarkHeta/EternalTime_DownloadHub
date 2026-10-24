@@ -1,3 +1,38 @@
+=================== 0.1.1.2 ===================
+✦ Optimized location rendering
+✦ Optimized grass rendering
+✦ Optimized shadow rendering
+✦ DoF effect is configurable via the Effects setting
+✦ Added a setting to disable grass
+✦ Added a terrain rendering setting
+✦ Added an object rendering setting
+✦ Added an experimental UI setting
+✦ Fixed body part selection by race
+✦ Fixed tail marking selection
+✦ Made adjustments to player physics
+✦ Fixed blinking and ear twitching on other characters
+✦ Fixed teeth disappearing and partial transparency of characters
+✦ Chat appears in F1 and F2 camera modes
+✦ Changed the size of overhead labels and chat
+  - Labels are visible from a distance of 50 meters
+✦ Increased local chat hearing distance: 55 meters
+✦ Fixed stamina bugs
+✦ Reworked the stamina system
+✦ Added stamina regeneration during certain actions
+✦ Added a stamina regeneration multiplier when sitting near other players
+✦ Added a cooldown for the secondary action
+✦ Fixed the "Done" button during character creation
+✦ Added a light toggle button in the editor
+✦ Added a button leading to the screenshots folder in the settings menu
+✦ Improved hotbar functionality
+✦ Server performance optimization
+✦ Fixed some server errors
+✦ Tears of Time shop synchronization
+✦ Minor fixes to the Tears of Time shop
+✦ Server-side checking and validation of player markings
+✦ Added several new Primary animations
+✦ Added several new Secondary animations
+✦ Changed the pit texture
 =================== 0.1.1.1 ===================
 ✦ Fixed server connection and synchronization
 ✦ Fixed critical chat error
