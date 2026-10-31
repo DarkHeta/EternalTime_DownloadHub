@@ -1,3 +1,64 @@
+=================== 0.1.1.3 ===================
+✦ Added a timed events system
+✦ Added a buffs and debuffs system
+✦ Halloween gacha
+  - Event marks that can only be obtained during the event
+  - New artwork on the gacha tabs
+✦ Event shop
+✦ Marks with variations now have a variations bar and a ✦ icon
+✦ New “Genes” tab; in the preview is your character, genes are tried on them and reset when leaving the tab
+✦ Added genes
+  - While the character is a skeleton or has a manifested skull, their voice is distorted
+  - Purchased in the event shop and do not participate in gacha. You can try them on before buying
+  - 6 new genes: “Skull Head,” “Element Lights,” “Black Skull,” “Custom Skull Color,” “Magic Skull,” and “Bloody Skull”
+✦ “Additional” section in Tears of Time: genetics services
+  - Genetics reset (500 LT): the genome is regenerated from appearance; appearance and purchased genes do not change; parents are not affected
+  - Element reroll (500 LT): a random different element
+  - Element selection (2000 LT): any element of your choice
+✦ “Storage” button in character selection: up to 25 characters in storage
+✦ Characters in storage do not take up slots and can be parents
+✦ In the editor, you can save appearance as a template (up to 25) and apply it to any character
+✦ The template transfers only appearance: element, constellation, personality, and genes remain your own
+✦ Autosave in the editor
+✦ Characters in selection can be swapped by dragging (by the name or by the character itself)
+✦ Characters can be renamed
+✦ “Random Name” button picks a name: 583 names
+✦ Character preview: LMB rotates, wheel zooms in, RMB moves, double-click resets the view
+✦ The sky changes mood depending on the moon phase and events
+✦ New marks and meshes can come from the server without a game update
+  - The game draws icons for them itself; while it is drawing, a gear spins
+  - Online parts are unavailable in offline mode and are reset with a warning
+✦ Pits now work via the server and no longer get “stuck”
+✦ Only one player can occupy a pit or chest
+✦ When the bag is full, chests and pits do not start, same as single tempusites
+✦ Improved anti-cheat protection: rewards are credited by the server
+✦ New secret chat command. Will you find it? (Etenal... Mario kart?)
+✦ Fixes
+  - Auto-icons are no longer captured from an intermediate frame when changing the camera (repeating eye icons, etc.)
+  - The “×5” button on the gacha result screen now rolls five cards instead of one
+  - Character preview no longer breaks when quickly switching screens (shop, “Additional,” parents)
+  - Long texts in warning windows no longer go beyond the frame: the window grows to fit the text
+  - In the editor, layer colors without a mark are hidden, and skull color is visible only when the gene is present
+  - If all characters are moved to storage, the last character no longer remains on the screen
+  - Pit digging: the result is no longer lost if the server did not respond; the server is answered for each hit, and the client reports completion
+  - Inserting someone else’s gene code and breeding no longer change element, constellation, and personality
+  - The element crystal is no longer skipped when creating a new character
+  - The color of the tail or ear mark no longer recolors the body mark
+  - Sliders for hairstyle and other parts are applied even if the part is selected later
+  - Settings sliders no longer rotate the character in the editor
+  - Windowed mode is no longer reset by “Apply”
+  - You can no longer sit while jumping and get stuck in the animation
+  - A hotbar action no longer activates while running
+  - The player menu on Tab no longer glitches and does not close when typing text
+  - The camera no longer detaches after Esc in the player menu
+  - Controls no longer disappear after F1 → F2
+  - Typing in chat no longer activates interactions and portals
+  - Messages no longer appear above other players’ characters
+  - Character copies no longer appear after reconnecting
+  - Chat no longer jumps down when you are reading history
+  - The sky’s mood is reset when leaving the world
+  - Fixed disappearing collision
+  - Removed the freeze when picking up crystals
 =================== 0.1.1.2 ===================
 ✦ Optimized location rendering
 ✦ Optimized grass rendering
