@@ -1,3 +1,47 @@
+=================== 0.1.1.4 ===================
+✦ Due to bugs and ongoing improvements, the event has been extended by 4 weeks!
+✦ Updated the genetics system
+  - Added a new tab for viewing a character's genetic information
+  - Gene names, genotypes (AA, Aa, aa), and expression states are now displayed
+  - The genetic information viewing service can be permanently unlocked for the entire account for 1500 LT
+  - Purchased genes can now be permanently unlocked for the entire account at triple the regular price
+  - Account-unlocked genes are available to all characters
+  - Purchased genes can be hidden or expressed without removing them from the genome
+  - Only genes unlocked for the account or already present on a character can be managed
+  - Purchased genes can now be inherited when creating a variation of the same character
+  - Variations of the same character no longer receive artificial parent records
+ATTENTION! Not all gene loci are fully implemented yet. Development is still in progress.
+✦ Improved G0 genetics
+  - Hidden loci are now determined based on the character's appearance rather than purely random probabilities
+  - Improved gene detection based on colors, markings, and body proportions
+  - Genetic expression and actual visual visibility are now treated separately
+  - Merle visibility is now saved and no longer rerolled every time the character is loaded
+✦ Chat messages no longer get mixed between different channels
+✦ Reworked the pack system
+  - Packs now persist when players log out and after server restarts
+  - Fixed pack member synchronization issues
+  - Fixed cases where a player appeared to be in a pack while other members could not see them
+  - Fixed errors when attempting to reinvite players to a pack
+✦ Improved the reward system
+  - Red event crystals now distribute rewards among pack members
+  - Reward bonuses and distribution percentages work the same way as with regular interactive objects
+  - Existing reward distribution between the bank and carried inventory has been preserved
+✦ Added a "Reveal All" button when obtaining five cards at once
+✦ Shop splash art now adapts to different screen resolutions
+✦ Bug fixes
+  - Attempted to fix characters sinking into terrain due to unstable slope collision handling
+  - Nearby objects now receive priority when loading collisions
+  - Fixed delayed collision loading for rocks and other objects
+  - Collision loading no longer depends on the free camera's position
+  - Fixed forest collider loading and physics layers
+  - Fixed character nameplates sometimes failing to appear
+  - Treasure pits no longer skip the digging minigame
+  - Fixed alert boxes closing prematurely when the server responds too quickly
+  - Reconnecting now restores the previously selected character instead of defaulting to character slot 0
+  - Fixed an error caused by accessing an editor instance that had already been freed
+  - Fixed genotype display for dominant and recessive loci
+  - New gradient underfur by DexterMorgan
+  - LT give by chat nickname
 =================== 0.1.1.3 ===================
 ✦ Added a timed events system
 ✦ Added a buffs and debuffs system
