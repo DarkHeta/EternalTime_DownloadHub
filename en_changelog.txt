@@ -1,3 +1,21 @@
+=================== 0.1.1.5 ===================
+Due to technical issues, the map had to be reverted to a previous version!
+
+✦ Updated primary and secondary action icons  
+✦ Added additional interface customization settings  
+✦ Added seasons (work in progress)  
+✦ Added randomized weather conditions (work in progress)  
+✦ Added stamina resources  
+✦ Reworked spawn points  
+✦ Added the ability to expand the Luminous Tempusite bag capacity  
+✦ Added the ability to expand character storage capacity  
+✦ Added editor improvements:
+  - Camera rotation in multiple directions
+  - Improved layer and mask management  
+✦ Added a marking creator credit system  
+✦ Optimized crystals  
+✦ Updated special effects  
+✦ Added a timer for the current event
 =================== 0.1.1.4 ===================
 ✦ Due to bugs and ongoing improvements, the event has been extended by 4 weeks!
 ✦ Updated the genetics system
