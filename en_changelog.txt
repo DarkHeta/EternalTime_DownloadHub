@@ -1,3 +1,17 @@
+=================== 0.1.1.5 - fix ===================
+✦ Fixed purchased storage persistence
+✦ Minor UI fixes
+✦ Added a setting for lower-end CPUs
+✦ Added a setting to hide labels in screenshots
+✦ Key hints now update when controls are rebound
+✦ Added the final eye gene
+✦ Fixed skull gene dependencies and skull eye coloring
+✦ Improved the color palette
+✦ Boosty, Trailblazer, and Moderator statuses now coexist
+✦ Improved game stability
+✦ Improved falling leaves
+✦ Reworked spawn points
+
 =================== 0.1.1.5 ===================
 Due to technical issues, the map had to be reverted to a previous version!
 
